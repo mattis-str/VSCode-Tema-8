@@ -1,0 +1,11 @@
+:root {
+  --primary: #f1f1f1;
+  --secondary: #323338;
+  --black: #0d0d0d;
+
+  --h1: 5rem;
+  --h2: 4rem;
+  --h3: 3rem;
+  --h4: 2rem;
+  --paragraph: 1rem;
+}
