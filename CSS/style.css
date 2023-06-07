@@ -29,6 +29,7 @@ article {
 body,
 html {
   max-width: 100%;
+  background-color: var(--primary);
   /*   overflow-x: hidden; */
   /*     overflow-y: hidden; */
 }
